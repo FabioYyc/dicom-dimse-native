@@ -39,7 +39,8 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "cmake-js": "^6.0.0",
+    "cmake-js": "^6.1.0",
+    "electron-rebuild": "^2.3.4",
     "mocha": "^7.2.0",
     "node-cmake": "^2.5.1"
   },
