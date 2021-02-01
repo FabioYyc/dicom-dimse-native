@@ -9,8 +9,8 @@ addon.getScu(JSON.stringify(
         },
         "target": {
             "aet": "CONQUESTSRV1",
-            "ip" : "127.0.0.1",
-            "port": "5678"
+            "ip" : "www.dicomserver.co.uk",
+            "port": "11112"
         },
         "tags" : [
             {
